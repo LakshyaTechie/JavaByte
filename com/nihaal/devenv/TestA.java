@@ -1,4 +1,4 @@
-package com.nihaal.dev;
+package com.nihaal.devenv;
 
 public class TestA {
 
